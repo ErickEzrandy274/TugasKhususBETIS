@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: grey !important;
+}
+
+.gambar {
+    width: 5% !important; 
+    margin-left: 5rem;
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+.login {
+    background-color: #5B6A00;
+    color: #FFFFFF;
+    width: 10rem !important;
+}
+
+.login:hover {
+    color: #FFFFFF;
+}
+
+.texts {
+    color: #8A8A8A !important;
+    font-weight: 600;
+}
